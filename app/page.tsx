@@ -305,10 +305,10 @@ export default function EnKendamaLanding() {
                   ))}
                 </div>
                 <div className="flex items-center justify-center space-x-6">
-                  <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/enkendama.jp?igsh=MTFpcDBtajhzYmg1Ng%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer">
                     <Instagram size={24} />
                   </a>
-                  <a href="https://shopify.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://enkendama.base.shop/items/111563503" target="_blank" rel="noopener noreferrer">
                     <ShoppingCart size={24} />
                   </a>
                 </div>
