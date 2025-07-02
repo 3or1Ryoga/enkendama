@@ -228,7 +228,7 @@ export default function EnKendamaLanding() {
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="en-character opacity-0">
             <Image
-              src="/placeholder.svg?height=400&width=400"
+              src="/en_3.jpg?height=400&width=400"
               alt="縁 (En) Calligraphy"
               width={400}
               height={400}
@@ -332,7 +332,7 @@ export default function EnKendamaLanding() {
           <div className="text-center z-10">
             <div className="mb-8">
               <Image
-                src="/placeholder.svg?height=300&width=300"
+                src="/en_3.jpg?height=300&width=300"
                 alt="縁 (En) Calligraphy Artwork"
                 width={300}
                 height={300}
