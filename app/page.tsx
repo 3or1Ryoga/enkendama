@@ -211,6 +211,8 @@ export default function EnKendamaLanding() {
 
   const galleryImages = [
     "/ken_with.jpg?height=300&width=300",
+    "/kendama_ninja_2.jpg?height=300&width=300",
+    "/kendama_ninja.jpg?height=300&width=300",
     // "/placeholder.svg?height=300&width=300",
     // "/placeholder.svg?height=300&width=300",
     // "/placeholder.svg?height=300&width=300",
@@ -431,6 +433,8 @@ export default function EnKendamaLanding() {
                     className="w-full h-full object-cover"
                   />
                 </div>
+                
+                
               ))}
             </div>
           </div>
